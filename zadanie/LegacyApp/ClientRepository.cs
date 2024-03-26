@@ -6,6 +6,9 @@ namespace LegacyApp
 {
     public class ClientRepository
     {
+        
+        
+        
         /// <summary>
         /// This collection is used to simulate remote database
         /// </summary>
