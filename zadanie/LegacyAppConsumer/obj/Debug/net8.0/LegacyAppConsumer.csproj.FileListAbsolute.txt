@@ -26,3 +26,12 @@ C:\Users\s27990\Desktop\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net
 C:\Users\s27990\Desktop\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.dll
 C:\Users\s27990\Desktop\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\refint\LegacyAppConsumer.dll
 C:\Users\s27990\Desktop\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.pdb
+D:\GITHUB\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.csproj.AssemblyReference.cache
+D:\GITHUB\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.AssemblyInfoInputs.cache
+D:\GITHUB\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.AssemblyInfo.cs
+D:\GITHUB\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.csproj.CoreCompileInputs.cache
+D:\GITHUB\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.sourcelink.json
+D:\GITHUB\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.dll
+D:\GITHUB\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\refint\LegacyAppConsumer.dll
+D:\GITHUB\APBD_Refactoring\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.pdb

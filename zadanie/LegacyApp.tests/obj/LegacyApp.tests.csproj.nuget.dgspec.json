@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\LegacyApp.tests.csproj": {}
+    "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\LegacyApp.tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\LegacyApp.tests.csproj": {
+    "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\LegacyApp.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\LegacyApp.tests.csproj",
+        "projectUniqueName": "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\LegacyApp.tests.csproj",
         "projectName": "LegacyApp.tests",
-        "projectPath": "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\LegacyApp.tests.csproj",
-        "packagesPath": "C:\\Users\\s27990\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\obj\\",
+        "projectPath": "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\LegacyApp.tests.csproj",
+        "packagesPath": "C:\\Users\\Kacper.SUPERKOMPUTER\\.nuget\\packages\\",
+        "outputPath": "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp.tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\s27990\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kacper.SUPERKOMPUTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +27,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj": {
-                "projectPath": "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj"
+              "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj": {
+                "projectPath": "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj"
               }
             }
           }
@@ -38,11 +44,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,21 +83,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj": {
+    "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj",
+        "projectUniqueName": "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj",
-        "packagesPath": "C:\\Users\\s27990\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s27990\\Desktop\\APBD_Refactoring\\zadanie\\LegacyApp\\obj\\",
+        "projectPath": "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp\\LegacyApp.csproj",
+        "packagesPath": "C:\\Users\\Kacper.SUPERKOMPUTER\\.nuget\\packages\\",
+        "outputPath": "D:\\GITHUB\\APBD_Refactoring\\zadanie\\LegacyApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\s27990\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kacper.SUPERKOMPUTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,6 +110,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -116,11 +123,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -142,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
